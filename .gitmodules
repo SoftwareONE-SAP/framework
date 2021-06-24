@@ -1,6 +1,6 @@
 [submodule "system/libraries/session"]
 	path = system/libraries/session
-	url = https://github.com/lite-php/session-library.git
+	url = https://github.com/Centiq/session-library.git
 [submodule "system/libraries/simplemail"]
 	path = system/libraries/simplemail
 	url = https://github.com/lite-php/simplemail-library.git
