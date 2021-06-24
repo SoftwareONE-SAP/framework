@@ -1,27 +1,27 @@
 [submodule "system/libraries/session"]
 	path = system/libraries/session
-	url = https://github.com/lite-php/session-library.git
+	url = https://github.com/Centiq/session-library.git
 [submodule "system/libraries/simplemail"]
 	path = system/libraries/simplemail
-	url = https://github.com/lite-php/simplemail-library.git
+	url = https://github.com/Centiq/simplemail-library.git
 [submodule "system/libraries/recaptcha"]
 	path = system/libraries/recaptcha
-	url = https://github.com/lite-php/recaptcha-library
+	url = https://github.com/Centiq/recaptcha-library
 [submodule "system/libraries/sorter"]
 	path = system/libraries/sorter
-	url = https://github.com/lite-php/sorting-library.git
+	url = https://github.com/Centiq/sorting-library.git
 [submodule "system/libraries/bcrypt"]
 	path = system/libraries/bcrypt
-	url = https://github.com/lite-php/bcrypt-library.git
+	url = https://github.com/Centiq/bcrypt-library.git
 [submodule "system/libraries/csrf"]
 	path = system/libraries/csrf
-	url = https://github.com/lite-php/csrf-library.git
+	url = https://github.com/Centiq/csrf-library.git
 [submodule "system/libraries/http"]
 	path = system/libraries/http
-	url = https://github.com/lite-php/http-library.git
+	url = https://github.com/Centiq/http-library.git
 [submodule "system/libraries/gravatar"]
 	path = system/libraries/gravatar
-	url = https://github.com/lite-php/gravatar-library.git
+	url = https://github.com/Centiq/gravatar-library.git
 [submodule "system/libraries/fluentlogger"]
 	path = system/libraries/fluentlogger
-	url = https://github.com/lite-php/fluentlogger-library.git
+	url = https://github.com/Centiq/fluentlogger-library.git
