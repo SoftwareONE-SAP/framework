@@ -2,7 +2,7 @@
 /**
  * LightPHP Framework
  * LitePHP is a framework that has been designed to be lite waight, extensible and fast.
- * 
+ *
  * @author Robert Pitt <robertpitt1988@gmail.com>
  * @category core
  * @copyright 2013 Robert Pitt
@@ -23,7 +23,7 @@
 
 /**
  * Define the application enviroment
- * Use like so, ENVIRONMENT=staging php index.php or confirugure in webserver config.
+ * Use like so, ENVIRONMENT=staging php index.php or configure in webserver config.
  */
 !defined("ENVIRONMENT") && define("ENVIRONMENT", getenv('ENVIRONMENT') ? getenv('ENVIRONMENT') : 'development');
 
